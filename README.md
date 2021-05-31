@@ -1,2 +1,4 @@
 # hello-world
-tutorial repository
+Hello Everyone!
+
+My name is Heather. I'm a linguist. 
